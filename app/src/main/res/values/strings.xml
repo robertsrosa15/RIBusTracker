@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RI Bus Tracker</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="track_bus">Track Bus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="url_schedules_maps">http://www.ripta.com/schedules-maps</string>
+    <string name="url_ripta">http://www.ripta.com/</string>
+    <string name="url">url</string>
+    <string name="array_bus_title">ArrayBusTitle</string>
+    <string name="array_map_info">ArrayMapInfo</string>
+    <string name="array_route_path">ArrayRoutePath</string>
+    <string name="ri_bus_tracker">RI Bus Tracker</string>
+    <string name="select_route">Select Route</string>
+
+</resources>
